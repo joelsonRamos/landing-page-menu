@@ -22,7 +22,7 @@ import routes from "routes";
 import footerRoutes from "footer.routes";
 
 // Images
-import bgImage from "assets/images/menu-digital4.png";
+import bgImage from "assets/images/menu-digital4.jpg";
 
 function AboutUs() {
   return (
